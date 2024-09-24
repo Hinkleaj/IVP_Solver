@@ -9,9 +9,12 @@ This was a group project for a Numerical Method of Simulation course. It involve
 - an adaptive step size algorithm based on the ratio between the first and second derivative, <br>
 - and an adaptive step size algorithm based on minimizing the mean square error(MSE). 
 <br>
+<br>
 The report presents a thorough discussion of the results for three different test IVPs, along with their analytical solutions for comparison. The report also includes a critique of the results and suggestions for future research. In each case, the adaptive step size algorithms produced more accurate results than the constant step size method, with the MSE-based algorithm generally requiring the fewest iterations and resulting in the fastest computation time. The adaptive step size algorithms produced more accurate results than the constant step size method, with the algorithm based on the second derivative showing the greatest improvement in accuracy, albeit at the cost of longer computation time. The algorithm based on minimizing the mean square error showed similar accuracy to the constant step size algorithm but required fewer iterations and was faster.  
 <br>
+<br>
 Overall, the project provides a useful analysis of different numerical methods for solving IVPs. The authors of the report present their results clearly and thoroughly, and provide valuable insights into the strengths and weaknesses of each method. The code could be a valuable resource for other researchers or students interested in implementing these methods in their own work. 
+<br>
 <br>
 This project is released under the Creative Commons Attribution-ShareAlike 4.0 International license. This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes. However, it requires that reusers give credit to the creator(s), and it requires that any remixes, adaptations, or modifications of the material, must be licensed under identical terms. In other words, give us credit for our work and keep the project open source.
 
