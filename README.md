@@ -1,10 +1,10 @@
 <div align="center"><h1 style=align="center">Numerical IVP Solver</h1></div>
 
-<div align="center"><img src="Media/IVPSolver03.png" width="100%"></div>
+<div align="center"><img src="Media/IVPSolver03.png" width="60%"></div>
 <div align="center"><i>This MATLAB project implements and compares numerical solvers for solving initial value problems</i></div>
 <br>
 <br>
-This project involved implementing and comparing the efficiency and accuracy of three different numerical methods for solving initial value problems(IVPs). The algorithms were implemented and the results were compared using the MATLAB programming language. The code is annotated and presented in detail, in a clear and easy-to-follow format. Three methods were compared:
+This was a group project for a Numerical Method of Simulation course. It involved implementing and comparing the efficiency and accuracy of three different numerical methods for solving initial value problems(IVPs). The algorithms were implemented and the results were compared using the MATLAB programming language. The code is annotated and presented in detail, in a clear and easy-to-follow format. Three methods were compared:
 - a constant step size implicit Euler solver using the Newton-Raphson method, 
 - an adaptive step size algorithm based on the ratio between the first and second derivative, 
 - and an adaptive step size algorithm based on minimizing the mean square error(MSE). 
@@ -18,7 +18,6 @@ Overall, the project provides a useful analysis of different numerical methods f
 
 Author
 --
-Project Lead, Machine Design and Fabrication:
 <br>
 Aaron Jay Hinkle
 <br>
